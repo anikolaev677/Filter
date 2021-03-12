@@ -1,0 +1,12 @@
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\DepartureEarlierTheCurrentTimeFilter.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\FlightClient.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\FilterManager.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\Filter.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\FlightPredicate.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\FilterClassLoader.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\InputScanner.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\TotalTimeBetweenFlightsIsMoreTwoHoursFilter.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\FilterChain.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\Main1.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\ArrivalDateEarlierThenDepartureDateFilter.java
+C:\Users\Dell\IdeaProjects\Filtering\src\main\java\filters\FlightPredicateImpl.java
